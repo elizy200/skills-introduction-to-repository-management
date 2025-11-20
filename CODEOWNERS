@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @elizy200
+/src/backend/database.py      @elizy200
+/src/backend/routers/auth.py  @elizy200
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @elizy200
